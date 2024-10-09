@@ -118,11 +118,11 @@ In this task, we will learn how to enable GitHub Advanced Security features for 
 
    ![github-advisory-database](images/ghas-exercise1-5.png)
 
-1. Under **Secret Scanning**, click on **enable**.
+1. click on **enable**, for **Secret Scanning**
 
    ![Picture1](./images/mod2ss1.png)
 
-1. Select **Enable** butoon next to the activate Push Protection.
+1. Select **Enable** button to activate Push Protection, under **Secret Scanning**.
 
    ![Picture1](./images/advance-scanning5.png)
 
